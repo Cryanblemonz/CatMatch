@@ -1,0 +1,127 @@
+h1{
+    color:#CBE4DE;
+    text-align: center;
+    font-family: monoton;
+    font-size: 4rem;
+    display: inline;
+    border-radius: 10%;
+}
+
+body{
+    background-color:#355555;
+    text-align: center;
+}
+
+.score{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    color: black;
+    background-color: yellow;
+    font-size: 2rem;
+}
+.fails{
+    position: absolute;
+    top: 75px;
+    right: 15px;
+    color: black;
+    background-color: yellow;
+    font-size: 2rem;
+}
+
+.font-awesome{
+    font-size: 3rem;
+    transform: rotate(30deg);
+}
+
+h2{
+    font-size: 2rem;
+    font-family: montserrat;
+    color: #0E8388;
+    padding: 20px;
+    margin: 2px;
+}
+
+.box{
+    height: 135px;
+    width: 96px;
+    background-image: url("images/card-back.jpg");
+    background-size: cover;
+}
+.cards{
+    margin: 15px auto;
+    height: 135px;
+    width: 96px;
+    background-size: cover;
+    border-radius: 10%;
+    border: 2px solid white;
+    box-shadow:black;
+}
+
+.hidden{
+    visibility:hidden;
+}
+
+.win{
+    background-color: green;
+}
+
+.cat1{
+    background-image: url("images/cat1.jpg");
+}
+
+.cat2{
+    background-image: url("images/cat2.jpg");
+}
+
+.cat3{
+    background-image: url("images/cat3.jpg");
+}
+
+.cat4{
+    background-image: url("images/cat4.jpg");
+}
+
+.cat5{
+    background-image: url("images/cat5.jpg");
+}
+
+.cat6{
+    background-image: url("images/cat6.jpg");
+}
+
+.cat7{
+    background-image: url("images/cat7.jpg");
+}
+
+.cat8{
+    background-image: url("images/cat8.jpg");
+}
+
+.cat9{
+    background-image: url("images/cat9.jpg");
+}
+
+.cat10{
+    background-image: url("images/cat10.jpg");
+}
+
+.cat11{
+    background-image: url("images/cat11.jpg");
+}
+
+.cat12{
+    background-image: url("images/cat12.jpg");
+}
+
+.cat13{
+    background-image: url("images/cat13.jpg");
+}
+
+.cat14{
+    background-image: url("images/cat14.jpg");
+}
+
+.cat15{
+    background-image: url("images/cat15.jpg");
+}
